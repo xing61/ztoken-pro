@@ -31,7 +31,7 @@ Ztoken Pro - Same Models. Better Economics.   <br>
   * 更多特性支持，敬请期待。也可直接向我们提交需求哦  
 
 - **项目地址**   
-1、项目官方网址：https://platform.ztoken.pro   
+1、项目官方网址：https://platform.ztoken.pro/#/login   
    Ztoken Pro - Same Models. Better Economics.    
    开发者单独的Secret Key、调用记录、微调模型、余额查询、示例代码等可以从管理后台中获取。        
 2、微信交流群（如果你也对本项目感兴趣，欢迎加入微信群交流）：    
